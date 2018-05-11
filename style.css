@@ -1,0 +1,16 @@
+body {
+    background-color: orange;
+    text-align: center;
+}
+
+ul {
+    text-align: left;
+}
+
+#h2left {
+    text-align: left;
+}
+
+.yellowBack {
+    background-color: yellow;
+}
